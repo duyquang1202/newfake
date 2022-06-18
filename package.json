@@ -1,10 +1,10 @@
 {
-  "name": "fakebrowser",
+  "name": "newfake",
   "version": "0.0.66",
   "description": "🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkoooqq/fakebrowser.git"
+    "url": "git+https://github.com/duyquang1202/newfake.git"
   },
   "author": "kkoooqqq",
   "license": "LGPLv3",
